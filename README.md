@@ -1,3 +1,3 @@
 # Dhanjee_repo1
-my 1st repository
-my favourite player Rohit sharma.
+my 1st repository.
+My favourite player Rohit sharma.
